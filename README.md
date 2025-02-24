@@ -2,6 +2,9 @@
 Real-time &amp; Reliable Exchange rate API with no limits (UNLIMITED), no API keys (no registration required), free for all users
 We support 161 currencies and offer accurate, reliable data from multiple upstream providers.
 
+## Demo
+Click this [Link](https://ajelly123.github.io/exchange) to test the Demo
+
 ## Features
 - No API key required
 - No usage limits (Unlimited requests)
